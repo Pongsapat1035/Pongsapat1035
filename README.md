@@ -2,7 +2,7 @@
 Welcome to my GitHub! This is where I collect all my projects as I learn and grow as a web developer. I'm currently focused on building my skills in front-end and back-end development. Check out my work and feel free to connect!<br>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pongsapat1035&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pongsapat1035&layout=compact&langs_count=10)
 
 # Contract me
 
